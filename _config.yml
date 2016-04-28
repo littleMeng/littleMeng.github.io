@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            记 录
+description:      工作、学习、生活
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -11,7 +11,7 @@ url:
 owner:
   name:           邵逸凯
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "努力成为技术男."
   email:          yikaishao@163.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
