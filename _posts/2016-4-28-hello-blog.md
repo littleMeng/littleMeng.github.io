@@ -7,8 +7,8 @@ tags: [others]
 
 ## 工作、学习、生活记录空间
 
-~~~ c
+``` c
 void show(void) {
   printf("hello world!");
 }
-~~~
+```
