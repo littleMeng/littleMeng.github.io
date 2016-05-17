@@ -18,17 +18,17 @@ tags: [介绍]
 
 ### Android相关开发
 
-* **android application**
+* android application
     * 音乐播放器：歌词平滑滚动、进度条控制歌曲播放
     * 电影推荐、搜索：Volly、Gson、Utrl-Pull-To-Refresh、SQLite
     
-* **android framework(version 4.4)**
+* android framework(version 4.4)
     * 添加SystemServer，管理开机时的网络配置
     * ethernet支持ipv6功能：状态机管理；增加ipv6地址接口；清除ipv4/ipv6地址(实现HAL层接口)
     * 修改wifi模块，支持客户端和热点共存：改动文件数量较多，主要思路是修改
     状态机及其相关代码，使其支持客户端和热点两种状态同时存在；根据项目需求
     实现定制接口，例如热点设置自身IP和DHCP的IP范围、客户端设置静态IP等等
 
-* **others**
+* others
     * 完成动态链接库打通c和java通信(JNI)
     * adb传输速率优化
