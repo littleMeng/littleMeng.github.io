@@ -5,7 +5,8 @@ description: "具体描述"
 tags: [介绍]
 ---
 
-##个人技能
+###个人技能
+
 * 能独立进行android应用程序开发，framework功能定制及修改，HAL层的接口实现
 * 熟悉常用算法和数据结构
 * 良好的c功底，基本的java技能
@@ -15,7 +16,8 @@ tags: [介绍]
 
 ***
 
-##Android相关开发
+###Android相关开发
+
 * **android application**
     * 音乐播放器：歌词平滑滚动、进度条控制歌曲播放
     * 电影推荐、搜索：Volly、Gson、Utrl-Pull-To-Refresh、SQLite
