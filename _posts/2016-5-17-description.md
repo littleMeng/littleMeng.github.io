@@ -9,15 +9,6 @@ tags: [介绍]
 
 * 2009.9 - 2013.6 武汉科技大学本科，电子信息工程专业
 
-### 技能介绍
-
-* 能独立进行android应用程序开发，framework功能定制及修改，HAL层的接口实现
-* 熟悉常用算法和数据结构
-* 良好的c功底，基本的java技能
-* 熟练使用linux(Ubuntu)、编写shell脚本
-* 了解android基本系统架构，有阅读android源码经验
-* 三年工作经验
-
 ***
 
 ### Android相关开发
@@ -34,3 +25,14 @@ tags: [介绍]
 * others
     * 熟悉NDK开发，完成动态链接库打通c和java通信(JNI)
     * adb传输速率优化
+
+***
+
+### 技能介绍
+
+* 能独立进行android应用程序开发，framework功能定制及修改，HAL层的接口实现
+* 熟悉常用算法和数据结构
+* 良好的c功底，基本的java技能
+* 熟练使用linux(Ubuntu)、编写shell脚本
+* 了解android基本系统架构，有阅读android源码经验
+* 三年工作经验
