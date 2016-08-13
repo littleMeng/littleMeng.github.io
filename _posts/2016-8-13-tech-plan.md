@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 职业规划
-description: "技术发展路线"
+description: "技能树"
 tags: [备忘]
 ---
 
@@ -18,3 +18,10 @@ tags: [备忘]
 * IOS
 * 后端
 * Python
+
+### COMMON
+* TCP/IP
+* 算法
+* 计算机体系架构
+* 代码重构
+* UI设计
