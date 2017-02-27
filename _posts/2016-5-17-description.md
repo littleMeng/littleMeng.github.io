@@ -1,38 +1,50 @@
 ---
 layout: post
-title: 邵逸凯的简历
+title: 简历
 description: "具体描述"
 tags: [介绍]
 ---
 
-### 教育背景
+### 个人简介
 
-* 2009.9 - 2013.6 武汉科技大学本科，电子信息工程专业
+* 姓名：邵逸凯
+* 联系电话：15527487120
+* 教育背景：2009.9 - 2013.6 武汉科技大学本科，电子信息工程专业
 
 ***
 
-### Android相关开发
+### 项目经验（四年工作经验）
 
-* android application
-    * 本地音乐播放器：歌词平滑滚动、进度条控制歌曲播放
-    * 斗鱼游戏直播：抓取斗鱼直播源，利用vitamio进行播放；根据斗鱼官方API，利用弹幕烈焰使呈现弹幕。（[github地址](https://github.com/littleMeng/video-live)）
+* 模拟斗鱼android应用（[github地址](https://github.com/littleMeng/video-live)）
+    * 搭建框架，使用最新热门组件（新出热门技术就在该项目上使用熟悉）
+    * 内容列表展示，视频播放，实现弹幕接入
+    * 逆向斗鱼app，抓包获取接口。
     
-* android framework(version 4.4)
-    * 添加SystemServer，管理开机时的网络配置
-    * ethernet支持ipv6功能：状态机管理；增加ipv6地址接口；清除ipv4/ipv6地址(实现HAL层接口)
-    * 修改wifi模块，支持客户端和热点共存：改动文件数量较多，主要思路是修改状态机及其相关代码，使其支持客户端和热点两种状态同时存在；根据项目需求实现定制接口，例如热点设置自身IP和DHCP的IP范围、客户端设置静态IP等等
+* 华为企业技术支持（[下载地址](appstore.huawei.com/app/C10206421)）
+    * 华为企业用户获得服务与支持而发布的官方应用，可以通过本应用快速浏览华为的产品资料，查询命令、告警和备件信息。
+    * Android手机客户端软件的技术设计、研发、和维护
+    * 管理android项目自动化打包配置（android studio，gradle）
+    * Native与H5混合的开发
+    
+* 视频会议终端
+    * 网络模块开发，c&java代码实现
+    * 根据需求定制android framework wifi&&ethernet模块代码，完成JNI接口库
+    * 编译AOSP
 
+* 网络高清摄像机、2v/4v/8v DVS编码
+    * 浙江省联网协议模块：根据协议文档完成模块相应功能（注册/心跳/取流/等使DVS编码器和浙江省监控中心互联互通，并到现场进行实测
+    * 维护GB28181协议模块：功能的添加/删除，BUG修复
+    * Linux端SDK测试代码：编写代码提供给测试人员对SDK进行完整的功能和压力测试
+    
 * others
     * 熟悉NDK开发，完成动态链接库打通c和java通信(JNI)
     * adb传输速率优化
 
 ***
 
-### 技能介绍
+### 能力介绍
 
-* 能独立进行android应用程序开发，framework功能定制及修改，HAL层的接口实现
-* 熟悉常用算法和数据结构
-* 良好的c功底，基本的java技能
-* 熟练使用linux(Ubuntu)、编写shell脚本
-* 了解android基本系统架构，有阅读android源码经验
-* 三年工作经验
+* 使用android studio进行开发，独立完整实现了一个视频播放应用。熟悉android开发常用技术，关注新技术热点。
+* 熟练使用java和c语言，能使用js/h5进行hybird开发。
+* 熟悉Android源码编译的环境搭建、编译方法，并具有丰富的实践经验。
+* 较强学习能力：新项目切换到android系统，在不熟悉java前提下，独立研究并修改framework使其满足需求，打通c与java的通信(JNI)。
